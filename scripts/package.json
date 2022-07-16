@@ -1,4 +1,10 @@
 {
   "name": "mydao-scripts",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@ethersproject/constants": "^5.6.1",
+    "@thirdweb-dev/sdk": "^2.3.26",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9"
+  }
 }
